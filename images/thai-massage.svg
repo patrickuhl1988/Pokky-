@@ -1,0 +1,7 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#FFF5EE" />
+  <path d="M50,250 C150,50 250,450 350,250" stroke="#D2691E" stroke-width="10" fill="none" opacity="0.3"/>
+  <text x="50%" y="55%" font-family="Roboto, sans-serif" font-size="24" fill="#333333" text-anchor="middle" alignment-baseline="middle">
+    Thai Massage
+  </text>
+</svg>

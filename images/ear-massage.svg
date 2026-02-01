@@ -1,0 +1,7 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#FFF5EE" />
+  <circle cx="200" cy="150" r="80" fill="#D2691E" opacity="0.3" />
+  <text x="50%" y="55%" font-family="Roboto, sans-serif" font-size="24" fill="#333333" text-anchor="middle" alignment-baseline="middle">
+    Ear Massage
+  </text>
+</svg>
